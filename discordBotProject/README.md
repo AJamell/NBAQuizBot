@@ -5,6 +5,7 @@
 In this program, the discord bot will take user commands to start a game, game status, users in game, and end game.
 The bot will then use the core application to gather scores for each user and display the winner at the end of the game.`
 
+
 ## System Diagram
 
 ![description](TriviaDiscordUML-2.png)
